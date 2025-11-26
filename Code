@@ -1,0 +1,8 @@
+TeaScraper/
+├── TeaScraper/
+│   ├── __init__.py
+│   ├── tea_scraper.py
+│   └── tea_scraper_core.py
+├── .gitignore
+├── README.md
+└── requirements.txt
